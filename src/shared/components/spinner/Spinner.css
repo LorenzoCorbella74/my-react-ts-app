@@ -1,0 +1,7 @@
+.bt-spinner {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 100;
+  background-color: rgb(200, 200, 200, 0.25);
+}

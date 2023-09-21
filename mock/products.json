@@ -1,0 +1,92 @@
+[
+    {
+        "id": 0,
+        "title": "iphone 10 PLUS",
+        "description": "Description iphone 10 PLUS, Quasi officiis illum labore vero enim. Quasi explicabo sit at odio cum esse magnam ipsam delectus.",
+        "rating": 4.5,
+        "count": 6,
+        "color": "black",
+        "cost": 1000
+    },
+    {
+        "id": 1,
+        "title": "iphone 10",
+        "description": "Description iphone 10, Quasi officiis illum labore vero enim. Quasi explicabo sit at odio cum esse magnam ipsam delectus.",
+        "rating": 4.2,
+        "count": 4,
+        "color": "silver",
+        "cost": 1000
+    },
+    {
+        "id": 2,
+        "title": "iphone 13",
+        "description": "Description iphone 13, Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat, suscipit? Officiis soluta quis explicabo. ",
+        "rating": 4.3,
+        "count": 8,
+        "color": "black",
+        "cost": 1000
+    },
+    {
+        "id": 3,
+        "title": "iphone 7",
+        "description": "Description iphone 7, Quasi officiis illum labore vero enim. Quasi explicabo sit at odio cum esse magnam ipsam delectus.",
+        "rating": 4.5,
+        "count": 4,
+        "color": "white",
+        "cost": 900
+    },
+    {
+        "id": 4,
+        "title": "samsung s21",
+        "description": "Description samsung s21, Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat, suscipit? Officiis soluta quis explicabo. ",
+        "rating": 4.1,
+        "count": 12,
+        "color": "black",
+        "cost": 800
+    },
+    {
+        "id": 5,
+        "title": "samsung s22",
+        "description": "Description samsung s22, Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat, suscipit? Officiis soluta quis explicabo. ",
+        "rating": 4.5,
+        "count": 15,
+        "color": "black",
+        "cost": 900
+    },
+    {
+        "id": 6,
+        "title": "meizu 5",
+        "description": "Description meizu 5",
+        "rating": 4.9,
+        "count": 5,
+        "color": "black",
+        "cost": 200
+    },
+    {
+        "id": 7,
+        "title": "meizu 7",
+        "description": "Description meizu 7",
+        "rating": 4.5,
+        "count": 8,
+        "color": "red",
+        "cost": 100
+    },
+    {
+        "id": 8,
+        "title": "iphone 3gs",
+        "description": "Description iphone 3 gs",
+        "rating": 4.6,
+        "count": 21,
+        "color": "black",
+        "cost": 850
+    },
+    {
+        "id": 9,
+        "title": "iphone 2",
+        "description": "Description iphone 2",
+        "rating": 4.5,
+        "count": 4,
+        "color": "black",
+        "cost": 1200
+    }
+]
